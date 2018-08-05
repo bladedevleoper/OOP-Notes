@@ -1,0 +1,4 @@
+1. Give the Premium Listing additional features such as an image
+2. Add another level to your listings
+3. Add a detail page for each listing with additional information
+4. Create a different type of directory such as a Address Book or Classified Ads
