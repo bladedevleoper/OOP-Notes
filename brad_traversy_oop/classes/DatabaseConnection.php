@@ -105,4 +105,10 @@ class DatabaseConnection
     
     }
 
+    public function lastInsertId()
+    {
+        //this will bring back the last inserted Id.
+        $this->dbh->lastInsertId();
+    }
+
 }
