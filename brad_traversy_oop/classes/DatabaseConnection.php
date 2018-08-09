@@ -1,3 +1,4 @@
+
 <?php
 
 /*
@@ -110,5 +111,6 @@ class DatabaseConnection
         //this will bring back the last inserted Id.
         $this->dbh->lastInsertId();
     }
+
 
 }

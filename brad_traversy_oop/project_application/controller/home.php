@@ -1,3 +1,4 @@
+
 <?php
 
 class Home extends Controller
@@ -6,4 +7,5 @@ class Home extends Controller
     {
         echo 'this is the Index method being called';
     }
+
 }
