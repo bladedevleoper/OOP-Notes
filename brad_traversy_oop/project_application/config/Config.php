@@ -14,5 +14,5 @@ define("DB_NAME", "shareboard");
 
 
 //Define URL
-define("ROOT_PATH", "/");
+define("ROOT_PATH", "/OOP-Notes/brad_traversy_oop/project_application/"); #renove this out, its where the path directory sits. Would normally be a backslash /
 define("ROOT_URL", "http://localhost/");
